@@ -1,5 +1,5 @@
 <script lang="ts">
-  export let classes: string | undefined = undefined;
+  export let classes: string = '';
   // export let primary = false;
   // export let backgroundColor: string | undefined = undefined;
   // export let size: 'small' | 'medium' | 'large' = 'medium';
